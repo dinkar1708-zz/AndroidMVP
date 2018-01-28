@@ -16,3 +16,11 @@ In Example interceptor has been used to write the business logic, It can get dat
 However the business logic can be written in presenter as well.
 
 # generic on action completed interface is created, it can be customize as per need.
+
+
+#UI
+#
+
+![device-2018-01-28-162654](https://user-images.githubusercontent.com/28217318/35481377-6f5cc704-0448-11e8-8694-e36fcf3eb8c0.png)
+
+![device-2018-01-28-162717](https://user-images.githubusercontent.com/28217318/35481378-6f860e5c-0448-11e8-9b80-787b7093e2fa.png)
